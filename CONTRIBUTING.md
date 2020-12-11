@@ -35,15 +35,15 @@ Done with the video ? Cool, follow the following steps.
 ### Clone the repository
 ```bash
 git clone <enter_your_copied_url>
-cd Hacktoberfest-KIIT-2020
+cd E-Box-Solutions
 ```
 
 To know more about cloning and forking a repository check [this](https://help.github.com/en/articles/fork-a-repo) out!
 
-## Make a directory by your name 
+## choose/make a directory for the solutions 
 ```bash
-mkdir <your_name>
-cd <your_name>
+mkdir <module_name>
+cd <module_name>
 ```
 ### Put the programs in your directory
 > Note: Put your programs inside the directory of your name only. Try and keep one pull request per program you add. You can have a look
@@ -53,11 +53,11 @@ cd <your_name>
 
 ## Commit and Push your changes
 
-* ***Inside the Hactoberfest-KIIT directory***
+* ***Inside the E-Box-Solutions***
 
 ```bash
 # Do this once, only for the first time
-git remote add upstream https://github.com/junaidrahim/Hacktoberfest-KIIT.git
+git remote add upstream https://github.com/aadityaguptaa/E-Box-Solutions.git
 ``` 
 
 Commit your changes
